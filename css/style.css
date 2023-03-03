@@ -1,5 +1,10 @@
+table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 caption{
     color: white;
+    font-weight: bold;
     background: rgb(42, 60, 143);
 }
 
