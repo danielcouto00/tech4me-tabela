@@ -1,0 +1,18 @@
+caption{
+    color: white;
+    background: rgb(42, 60, 143);
+}
+
+th {
+    background: rgb(81, 112, 250);
+}
+
+td{
+    background: rgb(193, 205, 255);
+}
+
+.position{
+    color: white;
+    text-align: center;
+    background: rgb(149, 149, 149);
+}
